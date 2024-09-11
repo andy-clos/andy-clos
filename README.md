@@ -14,7 +14,7 @@
  
  🤖 I’m currently majoring in **Intelligent Computing**
 
- ⚡ I'm interested in **web development and design, data science, machine learning**
+ ⚡ I'm interested in **web design and development, data science, machine learning**
 
 </div>
  
