@@ -12,7 +12,7 @@
  
  👨🏼‍💻 I’m a graduate of **Bachelor of Computer Science** from **Universiti Sains Malaysia**
  
- 🤖 I’m currently majoring in **Intelligent Computing**
+ 🤖 I’m majoring in **Intelligent Computing**
 
  ⚡ I'm interested in **web design and development, data science, machine learning**
 
