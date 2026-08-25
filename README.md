@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 👨🏼‍💻 I’m currently pursuing **Bachelor of Computer Science** at **Universiti Sains Malaysia**
+ 👨🏼‍💻 I’m a graduate of **Bachelor of Computer Science** from **Universiti Sains Malaysia**
  
  🤖 I’m currently majoring in **Intelligent Computing**
 
